@@ -28,9 +28,9 @@
 
 ### 🚀 Projetos em Destaque
 
-- [Gerenciador de Notas](https://github.com/lexguimaraes/Gerenciador-de-Notas)
-- [Trabalho ED](https://github.com/lexguimaraes/Trabalho-ED)
-- [Valkyrie's Rise](https://github.com/lexguimaraes/Valkyries-Rise)
+- [Gerenciador de Notas](https://github.com/lexguimaraes/Gerenciador_de_Notas)
+- [Trabalho ED](https://github.com/lexguimaraes/Trabalho_ED)
+- [Valkyrie's Rise](https://github.com/lexguimaraes/Valkyries_Rise)
 - [TRABALHO_POO](https://github.com/lexguimaraes/TRABALHO_POO)
 
 ---
